@@ -94,14 +94,6 @@ Before running alignment, ensure:
 
 See `ALIGNMENT_SUMMARY.md` for detailed results.
 
-### 9. Next Steps
-
-1. ✅ Organize audio files and transcripts - **DONE**
-2. ✅ Run data preparation - **DONE**
-3. ✅ Execute forced alignment - **DONE**
-4. Inspect TextGrid outputs using Praat
-5. Analyze alignment quality (see `scripts/validate_alignment.py`)
-6. Generate report with visualizations
 
 ## References
 
